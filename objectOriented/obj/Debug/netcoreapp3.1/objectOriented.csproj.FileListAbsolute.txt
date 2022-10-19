@@ -1,0 +1,14 @@
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\bin\Debug\netcoreapp3.1\objectOriented.exe
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\bin\Debug\netcoreapp3.1\objectOriented.deps.json
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\bin\Debug\netcoreapp3.1\objectOriented.runtimeconfig.json
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\bin\Debug\netcoreapp3.1\objectOriented.runtimeconfig.dev.json
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\bin\Debug\netcoreapp3.1\objectOriented.dll
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\bin\Debug\netcoreapp3.1\objectOriented.pdb
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\obj\Debug\netcoreapp3.1\objectOriented.csproj.AssemblyReference.cache
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\obj\Debug\netcoreapp3.1\objectOriented.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\obj\Debug\netcoreapp3.1\objectOriented.AssemblyInfoInputs.cache
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\obj\Debug\netcoreapp3.1\objectOriented.AssemblyInfo.cs
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\obj\Debug\netcoreapp3.1\objectOriented.csproj.CoreCompileInputs.cache
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\obj\Debug\netcoreapp3.1\objectOriented.dll
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\obj\Debug\netcoreapp3.1\objectOriented.pdb
+C:\Users\abhjain8\source\repos\objectOriented\objectOriented\obj\Debug\netcoreapp3.1\objectOriented.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\bin\Debug\netcoreapp3.1\AbstractClassRealTime.exe
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\bin\Debug\netcoreapp3.1\AbstractClassRealTime.deps.json
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\bin\Debug\netcoreapp3.1\AbstractClassRealTime.runtimeconfig.json
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\bin\Debug\netcoreapp3.1\AbstractClassRealTime.runtimeconfig.dev.json
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\bin\Debug\netcoreapp3.1\AbstractClassRealTime.dll
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\bin\Debug\netcoreapp3.1\AbstractClassRealTime.pdb
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\obj\Debug\netcoreapp3.1\AbstractClassRealTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\obj\Debug\netcoreapp3.1\AbstractClassRealTime.AssemblyInfoInputs.cache
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\obj\Debug\netcoreapp3.1\AbstractClassRealTime.AssemblyInfo.cs
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\obj\Debug\netcoreapp3.1\AbstractClassRealTime.csproj.CoreCompileInputs.cache
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\obj\Debug\netcoreapp3.1\AbstractClassRealTime.dll
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\obj\Debug\netcoreapp3.1\AbstractClassRealTime.pdb
+C:\Users\abhjain8\source\repos\objectOriented\AbstractClassRealTime\obj\Debug\netcoreapp3.1\AbstractClassRealTime.genruntimeconfig.cache

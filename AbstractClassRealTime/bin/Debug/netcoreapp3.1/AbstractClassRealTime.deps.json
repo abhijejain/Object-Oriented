@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AbstractClassRealTime/1.0.0": {
+        "runtime": {
+          "AbstractClassRealTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractClassRealTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

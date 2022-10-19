@@ -1,0 +1,14 @@
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.AssemblyInfoInputs.cache
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.AssemblyInfo.cs
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.genruntimeconfig.cache
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\bin\Debug\netcoreapp3.1\Test1.exe
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\bin\Debug\netcoreapp3.1\Test1.deps.json
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.json
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.dev.json
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\bin\Debug\netcoreapp3.1\Test1.dll
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\bin\Debug\netcoreapp3.1\Test1.pdb
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.csproj.AssemblyReference.cache
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\obj\Debug\netcoreapp3.1\Test1.dll
+C:\Users\abhjain8\source\repos\objectOriented\GenericDelegates\obj\Debug\netcoreapp3.1\Test1.pdb
